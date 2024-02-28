@@ -1,2 +1,2 @@
 # SIE
-Surface Integral Equation Method
+Electrodynamic Surface Integral Equation Method based on the algorithm by Andreas Kern and Olivier Martin 
